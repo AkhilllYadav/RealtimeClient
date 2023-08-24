@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157883737369",
+    "project_id": "realtimeclient-e0531",
+    "storage_bucket": "realtimeclient-e0531.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157883737369:android:99f638b8d08b8aa9221188",
+        "android_client_info": {
+          "package_name": "com.example.realtimeclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157883737369-mr3fl5ebd2s5j3a70imbi6hnq45e3nk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ7167j_xGuAad_SH5sWoaIvoBo5aegbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157883737369-mr3fl5ebd2s5j3a70imbi6hnq45e3nk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
